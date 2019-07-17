@@ -66,3 +66,9 @@ set d_min_boost_gain=35
 set d_min_pitch=29
 set d_min_roll=27
 
+# Resources to be fixed to work with Mamba F722
+dma pin a09 1
+dma pin a08 1
+dma pin c09 0
+dma pin c08 1
+
